@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SAKSHAM-SINGH130](https://github.com/SAKSHAM-SINGH130)
+- 👨‍💻 All of my projects are available at [SAKSHAM-SINGH130](https://github.com/SAKSHAM-SINGH130)
 
 - 📫 How to reach me **saksham.webdev@gmail.com**
 
